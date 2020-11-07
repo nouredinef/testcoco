@@ -6,7 +6,7 @@
       "contentType": "firstname",
       "label": "Prénom",
       "autocomplete": "given-name",
-      "placeholder": "Camille"
+      "placeholder": "Mamadou"
     },
     {
       "key": "lastname",
@@ -14,7 +14,7 @@
       "contentType": "lastname",
       "label": "Nom",
       "autocomplete": "family-name",
-      "placeholder": "Dupont"
+      "placeholder": "Diallo"
     },
     {
       "key": "birthday",
